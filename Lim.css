@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+}
+
+body.img-sfondo{
+  background-image: url(Coding Challenge/SfondoLim.jpg);
+  background-size: cover;
+}
+
+img.img-logo{
+  width: 200px;
+}
+
+  /* INIZIO */
+
+div.contenitore{
+  width: 1000px;
+  margin: 40px auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 75px;
+  border-radius: 15px;
+}
+
+
+div.contenitore-logo{
+  text-align: center;
+}
+
+
+/* NAV */
+
+h1.titolo1{
+  color: lime;
+  text-align: center;
+  font-size: 30px;
+}
+
+div.menu{
+  padding: 10px;
+  background-color: lime;
+  width: auto;
+  height: 40px;
+  text-align: center;
+}
+
+/* CORPO DEL TESTO */
+
+div.oggetto1{
+  margin: 20px 0px;
+}
+
+div.oggetto2{
+  margin: 0px 0px 20px 0px;
+}
+
+div.info{
+  color: white;
+}
+
+
+/* BARRE CHARGE */
+
+div.charge1{
+  background-color: #f1bb59;
+  width: 275px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+div.charge2{
+  background-color: #7fdf0f;
+  width: 515px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+div.charge3{
+  background-color: #e9675e;
+  width: 130px;
+  height: 20px;
+  border-radius: 5px;
+}
